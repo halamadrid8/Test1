@@ -1,3 +1,4 @@
 ovo je sada pushano
 eo opet
 ggg
+submodule1 init
